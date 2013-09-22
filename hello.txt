@@ -1,4 +1,4 @@
 # This is an example file.
 # This is a comment to give some context.
 
-echo "Hello World"
+echo "Hello CompCon!"
